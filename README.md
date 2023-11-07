@@ -60,8 +60,6 @@ Training
 Train the model with:
 python scripts/train.py --data data/processed_bookings.csv
 
-Certainly! Below is a sample README for a fictional hotel cancellation prediction project. This README assumes the project uses a machine learning model to predict cancellations based on historical booking data.
-
 markdown
 Copy code
 # Hotel Cancellation Prediction Project
